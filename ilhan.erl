@@ -1,4 +1,5 @@
 -module(ilhan).
+-author("Ilhan Subasi").
 -export([fibonacci/1]).
 
 fibonacci(0) -> 0;
